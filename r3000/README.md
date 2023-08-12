@@ -1,6 +1,6 @@
 # Fibe R3000
 
-![Bell Aliant's Actiontec R3000](/R3000/r3000.jpg)
+![Bell Aliant's Actiontec R3000](/r3000/r3000.jpg)
 
 ## Hardware Requirements / Recommendations:
 
