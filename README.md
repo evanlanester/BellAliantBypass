@@ -19,7 +19,7 @@ The Virtual Lcal Area Networks (VLAN) used to segregate Internet, VoIP and IPTV 
 
 Bell Aliant uses the Serial Numbers of your ONT device or module to authenticate your connection. There is no PPPoE User or Password used to authenticate your connection in Atlantic Canada.*
 
-*Very old or some Rural setups with Bell Aliant have used PPPoE in the past.
+*Very old or some rural setups with Bell Aliant use ADSL and/or PPPoE.
 
 ## Legacy
 
